@@ -1,0 +1,1 @@
+worket: node bot.js
